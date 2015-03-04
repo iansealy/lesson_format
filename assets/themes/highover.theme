@@ -1,0 +1,18 @@
+{
+    "id":"highover",
+    "language":"en-GB",
+    "name":"Code Club UK Projects",
+    "registration_note": "",
+    "legal": "",
+    "stylesheets": [],
+    "logo": "/img/ccuk_logo.png",
+    "favicon": "/img/ccuk_favicon.ico",
+    "css_variables": {
+        "header_bg_light": "#B1DAAE",
+        "header_bg_dark": "#349946",
+        "header_text": "#FFFFFF"
+    },
+    "analytics_account": "",
+    "analytics_domain": "",
+    "webmaster_tools_verification": ""
+}
